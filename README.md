@@ -34,7 +34,8 @@
 
 #### Aside the expected data-driven answers the Rockbuster Stealth Management Board needed to set the strategy, some visualizations were delivered to make the information digestable and easy to interpret. Follow the Tableau Public links listed below to see the visualizations made to answer the project's objectives.
 
-#### ***Which movies contributed the most/least to revenue gain?***
+#### 
+- ***Which movies contributed the most/least to revenue gain?***
 
 #### This visualization show the [Top 10 movies that contributed the most to revenue and the ratings they belong to](https://public.tableau.com/app/profile/david.aroche/viz/RockbusterTop10FilmswithLowestRevenue/Sheet1?publish=yes).
 
@@ -42,13 +43,17 @@
 
 #### This visualization show the [proportion of film revenue aggregate by category](https://public.tableau.com/app/profile/david.aroche/viz/FilmRevenueAggregateProportionbyCategory/Sheet1?publish=yes).
 
-#### To be even more specific, a visualization to show the [film amount and made revenue proportion by category](https://public.tableau.com/app/profile/david.aroche/viz/RockerbusterFilmAmountRevenueProportionbyRating/Sheet1?publish=yes) was created.
+#### To be even more specific, a visualization to show the [films amount and made revenue proportion by category](https://public.tableau.com/app/profile/david.aroche/viz/RockerbusterFilmAmountRevenueProportionbyRating/Sheet1?publish=yes) was created.
 
-#### ***What was the average rental duration for all videos?***
+#### 
+- ***What was the average rental duration for all videos?***
 
 #### This visualization shows the [average rental duration by category](https://public.tableau.com/app/profile/david.aroche/viz/RockbusterAverageRentalDuration/Sheet1?publish=yes).
 
-#### ***Which countries are Rockbuster customers based in?***, ***Where are customers with high lifetime value based?***, ***Do sales figures vary between geographic regions?***
+#### 
+- ***Which countries are Rockbuster customers based in?***
+- ***Where are customers with high lifetime value based?*** 
+- ***Do sales figures vary between geographic regions?***
 
 #### A [map](https://public.tableau.com/app/profile/david.aroche/viz/CustomerBaseSizePaymentsConcentrationbyCountry/Sheet1?publish=yes) was created to answer geographic locations and size of customers base, and revenue size by regions.
 
