@@ -1,4 +1,4 @@
-# SQL_rockbuster_db_CF
+# SQL_rockbuster_db
 
 # **Project Overview**
 
