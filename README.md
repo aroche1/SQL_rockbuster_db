@@ -4,7 +4,7 @@
 
 ## **Business Case**
 
-#### For many years, Rockbuster Stealth LLC was the biggest movie rental company in the market with presence all around the world, but that quickly changed with the development and popularity increase of the internet. The competition (like Netflix and Amazon) was disruptive, transforming the traditional operations of having physical inventory distributed along the stores, to having a virtual inventory and a virtual space--in consequence, the operations costs downsized and the revenue increased.
+#### For many years, Rockbuster Stealth LLC was the biggest movie rental company in the market with presence all around the world, but that quickly changed with the development and increased popularity of the internet. The competition (like Netflix and Amazon) was disruptive, transforming the traditional operations of having stock distributed along the stores, to operate in a virtual space with virtual inventory--in consequence, the operations costs downsized and the revenue increased.
 
 #### The traditional business model led by Rockbuster fell behind as the new business model:
 - Made content accessible for a broader population size
@@ -16,14 +16,14 @@
 #### *Renew or Die: The Importance of Change*
 
 #### Why was important to acknowledge Rockbuster's market disadvantage and take action on it?
-#### **To survive the onslaught of the new streaming companies and become competitive again**. In that sense, Rockbuster had to strategize to adapt to the current market dynamics; the effort was led by the Business Intelligence (BI) department analyizing the possibility of exploiting the movies licenses Rockbuster already had, and **creating a new online video service**.
+#### **To survive the onslaught of the new streaming companies and become competitive again**. In that sense, Rockbuster had to strategize and adapt to the current market dynamics; the effort was led by the Business Intelligence (BI) department, analyizing how to exploit the movies licenses Rockbuster already had, and **creating a new online video service**.
 
 
 ## **Objectives, Scope & Deliverables**
 
 #### Rockbuster's goal is to open an online video rental service (not streaming), but is this the right way? 
 
-#### Before setting the strategy, some business questions must be answered:
+#### To set the strategy, the following business questions were posed:
 - *Which movies contributed the most/least to revenue gain?*
 - *What was the average rental duration for all videos?*
 - *Which countries are Rochbuster customers based in?*
@@ -32,7 +32,7 @@
 
 #### The project's scope is answering the business questions above by quering the necessary data from Rockbuster's database using SQL. This database contains information on customers, inventory, rentals, payments, stores, staff, among other relevant/related information. 
 
-#### Aside the data-driven answers the Rockbuster Stealth Management Board expected, some visualizations had to be delivered to make the information more digestable and easy to interpret; follow the Tableau Public links listed below to see the visualizations made to answer the project's objectives.
+#### Aside the expected data-driven answers the Rockbuster Stealth Management Board needed to set the strategy, some visualizations were delivered to make the information digestable and easy to interpret. Follow the Tableau Public links listed below to see the visualizations made to answer the project's objectives.
 
 #### ***Which movies contributed the most/least to revenue gain?***
 
